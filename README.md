@@ -6,4 +6,8 @@ Le systeme Flexypin peut permettre une vérification et programmation (par exemp
 
 Sur le PCB les pins sont indiquées Wroom=ESP32 puis S3 puis CT62.
 
-Pour le CT62, les 2 pins du haut sont inutilisées
+Pour le CT62, les 2 pins du haut sont inutilisées.
+
+Liens : 
+
+- https://heltec.org/project/ht-ct62/
